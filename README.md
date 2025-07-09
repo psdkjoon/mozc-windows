@@ -10,7 +10,7 @@ OpenSource project originates from
 
 Mozc is not an officially supported Google product.
 
-Build Status
+Build Statu
 ------------
 
 | Linux | Windows | macOS | Android lib |
